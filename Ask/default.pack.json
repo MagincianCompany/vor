@@ -583,6 +583,13 @@
             "type": 1,
             "duration": 0,
             "trunsPassed": 0
+        },
+        {
+            "description": "Solo puedes susurrar hasta que pasen tres turnos",
+            "state": 2,
+            "type": 3,
+            "duration": 3,
+            "trunsPassed": 0
         }
     ]
 }
