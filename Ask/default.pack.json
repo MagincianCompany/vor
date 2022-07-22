@@ -1,0 +1,539 @@
+{
+
+    "code": "default",
+
+    "asks": [
+        {
+            "description": "¿Te has enamorado de la pareja de algún amigo? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Cómo fue tu primer beso? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Cómo fue tu peor cita? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Con qué famoso te acostarías? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Alguna vez te ha gustado algún/a profesor/a? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Alguna vez te has enamorado de tu mejor amigo/a? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Qué piensas de tus exparejas? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Por qué terminaste tu última relación? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Alguna vez has mentido al decir que estabas enamorado? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Qué es lo más cruel que le has hecho a alguien? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Cuántas personas has besado? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Eres virgen? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Has sido infiel? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Te gusta alguien ahora mismo? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Qué es lo primero que pensaste al ver a  @rp_? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Cuál ha sido tu peor beso? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Has mentido para ligar? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Tendrías una relación abierta? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Perdonarías una infidelidad?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Te gusta @rp_?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Cuál es la mentira más grande que has dicho? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Has robado? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿A qué le tienes miedo?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Cuenta tu experiencia más vergonzosa?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Arriba o abajo? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Cuál es tu posición sexual favorita? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Tuviste amigos imaginarios cuando eras niño? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Qué fue lo último que buscaste en Google?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Te han cachado tus papás teniendo sexo? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Con quién de esta habitación pasarías una noche? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Cuál es tu mayor secreto? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Qué es lo más raro que has hecho estando solo o sola? ",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Cuál es tu récord de masturbarte en un día?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Admite cuál es el mayor ridículo que has hecho nunca.",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Demuestra un talento oculto que tengas.",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Haz una lista con las partes del cuerpo que más te gustan de @rp_",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Hazte una foto haciendo la peineta y mándasela a quien digan tus amigos.",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Escribe un mensaje \"random\" a uno de tus contactos de WhatsApp declarando tu atracción hacia él/ella. ",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Cuenta un sueño erótico que hayas tenido y que recuerdes",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Dale un beso a @rp_ del grupo,en la parte del cuerpo que prefieras.",
+            "state": 0,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Métete en un cuarto oscuro con @rp_ durante 4 minutos.",
+            "state": 0,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Besa (liarse) a @rpa_ del grupo durante un mínimo de 10 segundos.",
+            "state": 0,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Ponte en cima de otra@rp_ del grupo.",
+            "state": 0,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Imita a @rp_ hasta la siguiente vez que te toque",
+            "state": 2,
+            "type": 3,
+            "duration": 1,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Ponte un cubito de hielo en la espalda durante 15 segundos",
+            "state": 0,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Dibuja la figura de lo que te diga el jugador anterior en la espalda del siguiente jugador hasta que este lo adivine. Si alguno de los dos se rinde tienes que cumplir el castigo que diga el anterior jugador",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Acaricia la cabeza de @rp_ durante 1 minuto",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Responde al último mensaje que hayas recibido diciendo \"me gusta comerme los mocos\"",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Dile a @rp_ hasta qué punto desearías lamer el dedo gordo de su pie. Si te ries se te pondrá un castigo",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Da una vuelta al rededor del círculo a la pata coja",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Durante dos pruebas acaba tus frases con \"bobo\"",
+            "state": 2,
+            "type": 3,
+            "duration": 2,
+            "trunsPassed": 0
+        },
+        {
+            "description": "No puedes responder con \"Si\" o \"No\" durante 3 turnos",
+            "state": 2,
+            "type": 3,
+            "duration": 3,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Eres el Pony de @rp_, deberas llevar @a caballito a donde quiera hasta que pasen 2 minutos",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Llama a @rp_ \"gatito mio\" hasta que pasen 3 turnos",
+            "state": 2,
+            "type": 3,
+            "duration": 3,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Dile un piropo a @rp_ inmejorable",
+            "state": 2,
+            "type": 3,
+            "duration": 3,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Debes aplaudir cuando @rp_ hable durante este turno",
+            "state": 2,
+            "type": 3,
+            "duration": 1,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Pídele matrimonio  a @rp_",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Bailarle sensualmente a @rp_",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Hazle un masaje en los hombros a @rp_ hasta el próximo turno",
+            "state": 2,
+            "type": 3,
+            "duration": 1,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Sopla con suavidad a @rp_ en el cuello",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Bésale la mano a @rp_",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Hasta el próximo reto acaba todas tus frases con \"Hmmm .. .me gusta\"",
+            "state": 2,
+            "type": 3,
+            "duration": 1,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Márcale a alguien y cántale feliz cumpleaños",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Quítate alguna prenda",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Abre la galería, escoge una foto sin mirar y enseñarla ",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Dale una nalgada a @rp_",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Llama a tu crush y dile: \"hola? Me gustaría pedir una pizza de pepperoni\" ",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Baila aleatoriamente durante 30 segundos ",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Baila aleatoriamente durante 30 segundos ",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Compórtate como un bebé durante los próximos 3 turnos",
+            "state": 2,
+            "type": 3,
+            "duration": 3,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Hacer una broma telefonica ",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Elige a alguien del grupo para que te dé algunas nalgadas",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Imita a un borracho durante una ronda ",
+            "state": 2,
+            "type": 3,
+            "duration": 1,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Deja que @rp_ te dibuje algo donde quiera",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Describe un juego o pelicula con mimica hasta q lo adivinen ",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Qué odias de @rp_?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        }
+    ]
+}
