@@ -277,7 +277,7 @@
             "trunsPassed": 0
         },
         {
-            "description": "Dale un beso a @rp_ del grupo,en la parte del cuerpo que prefieras.",
+            "description": "Dale un beso a @rp_ en la parte del cuerpo que prefieras.",
             "state": 0,
             "type": 1,
             "duration": 0,
@@ -298,7 +298,7 @@
             "trunsPassed": 0
         },
         {
-            "description": "Ponte en cima de otra@rp_ del grupo.",
+            "description": "Ponte en cima de @rp_",
             "state": 0,
             "type": 1,
             "duration": 0,
@@ -532,6 +532,55 @@
             "description": "¿Qué odias de @rp_?",
             "state": 2,
             "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Qué odias de @rp_?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Seduce a @rp_ hasta que te diga que pares",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Quien te parece la persona más sexy de la sala?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Con quién pensaste la última vez que te tocaste?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Lee los 5 últimos mensajes que has mandado, sin decir a quién se lo mandaste ni explicar el contexto.",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Quitale la camiseta a @rp_ si es hombre. Si es una mujer, sigue avanzando en el corrillo.",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Hazle cosquillas a @rp_.",
+            "state": 2,
+            "type": 1,
             "duration": 0,
             "trunsPassed": 0
         }
