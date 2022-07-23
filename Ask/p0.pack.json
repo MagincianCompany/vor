@@ -1,0 +1,84 @@
+{
+
+    "code": "p0",
+
+    "asks": [
+        {
+            "description": "Besa (liarse) a @rpa_ del grupo durante un mínimo de 10 segundos.",
+            "state": 0,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Ponte en cima de @rpa_.",
+            "state": 0,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Imita a @rpa_ hasta la siguiente vez que te toque",
+            "state": 2,
+            "type": 3,
+            "duration": 1,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Ponte un cubito de hielo en la espalda durante 15 segundos",
+            "state": 0,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Dibuja la figura de lo que te diga el jugador anterior en la espalda del siguiente jugador hasta que este lo adivine. Si alguno de los dos se rinde tienes que cumplir el castigo que diga el anterior jugador",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Acaricia la cabeza de @rpa_ durante 1 minuto",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Pídele matrimonio  a @rpa_",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Bailarle sensualmente a @rpa_",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Hazle un masaje en los hombros a @rpa_ hasta el próximo turno",
+            "state": 2,
+            "type": 3,
+            "duration": 1,
+            "trunsPassed": 0
+        },
+        {
+            "description": "Quítate alguna prenda",
+            "state": 2,
+            "type": 1,
+            "duration": 0,
+            "trunsPassed": 0
+        },
+        {
+            "description": "¿Qué odias de @rpa_?",
+            "state": 2,
+            "type": 0,
+            "duration": 0,
+            "trunsPassed": 0
+        }
+    ]
+}
