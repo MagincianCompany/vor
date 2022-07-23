@@ -571,7 +571,7 @@
             "trunsPassed": 0
         },
         {
-            "description": "Quitale la camiseta a @rp_ si es hombre. Si es una mujer, sigue avanzando en el corrillo.",
+            "description": "[dadle a repetir estamos testeando] Quitale la camiseta a @rp_ si es hombre. Si es una mujer, sigue avanzando en el corrillo.",
             "state": 2,
             "type": 1,
             "duration": 0,
